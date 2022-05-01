@@ -3,7 +3,6 @@
 Collect all FTX perprual future pair's funding_rate and their premium rate with spot price
 
 ## Column Description
-***
 `coin` : ftx perprual future pair  
 `last_rate` : funding rate at last hour  
 `now_apy` : calculate by last_rate  
