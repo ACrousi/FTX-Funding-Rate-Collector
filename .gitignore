@@ -1,0 +1,7 @@
+venv
+__pycache__
+setting.json
+strategy.py
+main.py
+test.py
+test2.py
